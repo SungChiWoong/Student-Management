@@ -20,4 +20,4 @@
 ![image (5)](https://github.com/user-attachments/assets/e7bc5746-5bb8-4d41-a4ae-4aacb7c7da79)
 
 ### 관리 화면
-![image (3)](https://github.com/user-attachments/assets/ba0187e1-1787-42ab-b658-37212cb7c3b8)
+![image (4)](https://github.com/user-attachments/assets/bdf87919-d538-4290-8222-1f1a85f0540d)
