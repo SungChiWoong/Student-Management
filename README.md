@@ -15,4 +15,9 @@
 >- DB 구축(100%), 웹사이트 제작(100%)
 
 ## 🖥️ 실행 화면
+
+### 로그인 화면
+![image (5)](https://github.com/user-attachments/assets/e7bc5746-5bb8-4d41-a4ae-4aacb7c7da79)
+
+### 관리 화면
 ![image (3)](https://github.com/user-attachments/assets/ba0187e1-1787-42ab-b658-37212cb7c3b8)
